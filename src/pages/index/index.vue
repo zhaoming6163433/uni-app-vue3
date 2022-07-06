@@ -1,6 +1,7 @@
 <template>
   <div class="content">
     <image class="logo" src="@/static/logo.png" @click="gohome"/>
+		<van-button type="info">主要按钮</van-button>
     <div class="text-area">
       <text class="title">{{ title }}</text>
     </div>

@@ -64,5 +64,18 @@
     "sass-loader": "^8.0.2",
     "typescript": "^4.6.3",
     "vite": "^2.9.6"
-  }
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoming6163433/uni-app-vue3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoming6163433/uni-app-vue3/issues"
+  },
+  "homepage": "https://github.com/zhaoming6163433/uni-app-vue3#readme",
+  "description": ""
 }
